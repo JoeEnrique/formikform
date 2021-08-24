@@ -9,9 +9,13 @@ React Form using Formik Library
 ## Description:
 This is just a copy of my Formik Form created using React
 
+## Previous Requirements:
+Is required to understand how to work with React previously to any attempt to use this files.
+
 ## Installation:
-You need to create a react app before using this files
-Just clone the files. Then update the files on your created react app.
+You need to create a react app before using this files.
+Just clone the files.
+Then update the files on your created react app.
 
 ## Usage:
 Free to use
