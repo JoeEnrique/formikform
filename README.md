@@ -1,5 +1,5 @@
 # React Formik Form
-<h1><img src="https://github.com/JoeEnrique/formikform/blob/main/Formik_Preview.png" alt="Fromik Form Files" width="15%"></h1>
+<h1><img src="https://github.com/JoeEnrique/formikform/blob/main/Formik_Preview.png" alt="Fromik Form Files" width="25%"></h1>
 
 React Form using Formik Library
 > Version 0.1
