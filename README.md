@@ -21,7 +21,7 @@ Then update the files on your created react app.
 Free to use
 
 ## Support:
-Jose Figueroa
+No support available for this repository
 
 ## Licence
 Copyright (c) 2021 Jose Figueroa
